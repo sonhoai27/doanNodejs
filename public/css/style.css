@@ -174,13 +174,13 @@ p.ct-new-album-item {
         transition: all 250ms ease 0s;
         transform: scale(0); }
     .nav-tabs > li.active > a::after, .nav-tabs > li:hover > a::after {
-     transform: scale(1); 
+     transform: scale(1);
  }
-.tab-nav > li > a::after { 
+.tab-nav > li > a::after {
     background: #21527d none repeat scroll 0% 0%;
-     color: #fff; 
+     color: #fff;
  }
-.tab-pane { 
+.tab-pane {
     padding: 15px 0;
     }
 .tab-content{
@@ -243,4 +243,15 @@ footer*/
 height:50px;
 width:50px;
 }
+.col-xs-12.ct-banner-album-header{
+	background-image: url('http://gagadaily.com/uploads/stories/monthly_2017_04/lady-gaga-the-cure-single.jpg.c0df946b2f68c26600ab589a924b620b.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 150px;
+	background-attachment: fixed;
+	background-position: center;
+	color: white;
+}
+.row.ct-item-album-info{
 
+}
